@@ -5,12 +5,12 @@ This project aims to predict whether a tumor is **malignant** or **benign** usin
 ## 🖼️ Visual Context
 
 ### 1. Tumor Detection in Breast Imaging  
-![41598_2024_57740_Fig1_HTML](https://github.com/user-attachments/assets/c1ff0318-b877-40e7-a72c-4bde799c8f7b)
+![download](https://github.com/user-attachments/assets/5a4c2091-409d-4576-ac12-d3ce6f59ca3b)
 
 
 ### 2. Benign vs Malignant Tumor Structure  
-![download](https://github.com/user-attachments/assets/5a4c2091-409d-4576-ac12-d3ce6f59ca3b)
 
+![41598_2024_57740_Fig1_HTML](https://github.com/user-attachments/assets/c1ff0318-b877-40e7-a72c-4bde799c8f7b)
 
 ## 📌 Project Overview
 
